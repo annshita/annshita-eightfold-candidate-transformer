@@ -1,0 +1,17 @@
+{
+    "candidate_name": "Aarav Sharma",
+    "contact_email": "aarav.sharma@example.com",
+    "phone_num": "98765-43210",
+    "address": "Bangalore, India",
+    "total_exp_years": 3,
+    "tech_stack": ["NodeJS", "React", "MongoDB"],
+    "work_history": [
+        {
+            "company_name": "Tech Corp",
+            "job_title": "Backend Engineer",
+            "start_date": "Aug 2021",
+            "end_date": "Present",
+            "description": "Built scalable APIs."
+        }
+    ]
+}
