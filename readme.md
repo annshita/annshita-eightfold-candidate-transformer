@@ -7,7 +7,9 @@ An ETL pipeline and entity resolution engine that ingests structured and unstruc
 # Eightfold Candidate Data Transformer
 
 📄 **[Read the Technical Design Document](./AnshitaVerma_Eightfold.pdf)**
-**[![Watch the Demo](./assets/demo-thumbnail.png)](https://drive.google.com/file/d/1vtF25GlPhFXS-ntxZijt9ECxD2_RmaHP/view?usp=sharing)**
+
+
+**[![Watch the Demo](./assets/thumbnail.png)](https://drive.google.com/file/d/1vtF25GlPhFXS-ntxZijt9ECxD2_RmaHP/view?usp=sharing)**
 
 ---
 
