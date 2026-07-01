@@ -11,7 +11,9 @@ An ETL pipeline and entity resolution engine that ingests structured and unstruc
 ▶️ **Watch the demo video :**
 
 
-**[![Watch the Demo](./assets/thumbnail.png)](https://drive.google.com/file/d/1vtF25GlPhFXS-ntxZijt9ECxD2_RmaHP/view?usp=sharing)**
+**<a href="https://drive.google.com/file/d/1vtF25GlPhFXS-ntxZijt9ECxD2_RmaHP/view?usp=drive_link">
+  <img src="./assets/thumbnail.png" alt="Watch the Demo" width="400">
+</a>**
 
 ---
 
