@@ -1,0 +1,152 @@
+Starting Eightfold Candidate Transformer...
+
+=== DEFAULT CANONICAL PROFILE ===
+{
+  "candidate_id": "cand_1782877423553",
+  "full_name": "Aarav Sharma",
+  "emails": [
+    "aarav.sharma@example.com"
+  ],
+  "phones": [
+    "+919876543210"
+  ],
+  "location": "Bangalore, India",
+  "links": [
+    "https://github.com/octocat"
+  ],
+  "headline": null,
+  "years_experience": 3,
+  "skills": [
+    "nodejs",
+    "react",
+    "mongodb"
+  ],
+  "experience": [
+    {
+      "company": "Tech Corp",
+      "title": "Backend Engineer",
+      "start": "2021-08",
+      "end": null,
+      "summary": "Built scalable APIs."
+    }
+  ],
+  "education": [],
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "location",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "years_experience",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "emails[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "phones[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "experience[]",
+      "source": "ATS_JSON",
+      "method": "appended_objects"
+    },
+    {
+      "field": "links[]",
+      "source": "GITHUB_API",
+      "method": "appended_unique"
+    }
+  ],
+  "overall_confidence": 0.9
+}
+
+=== CUSTOM CONFIGURED PROFILE ===
+{
+  "full_name": "Aarav Sharma",
+  "primary_email": "aarav.sharma@example.com",
+  "primary_phone": "+919876543210",
+  "skills": [
+    "nodejs",
+    "react",
+    "mongodb"
+  ],
+  "overall_confidence": 0.9,
+  "provenance": [
+    {
+      "field": "full_name",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "location",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "years_experience",
+      "source": "ATS_JSON",
+      "method": "highest_confidence"
+    },
+    {
+      "field": "emails[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "phones[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "skills[]",
+      "source": "ATS_JSON",
+      "method": "appended_unique"
+    },
+    {
+      "field": "experience[]",
+      "source": "ATS_JSON",
+      "method": "appended_objects"
+    },
+    {
+      "field": "links[]",
+      "source": "GITHUB_API",
+      "method": "appended_unique"
+    }
+  ]
+}
